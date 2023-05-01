@@ -98,9 +98,8 @@ window.addEventListener("load", revealElementOnScroll);
 
 
 
-/**
- * Custom cursor
- */
+/*
+ Custom cursor
 
 const cursor = document.querySelector("[data-cursor]");
 const hoverElements = [...document.querySelectorAll("a"), ...document.querySelectorAll("button")];
@@ -119,3 +118,5 @@ addEventOnElements(hoverElements, "mouseover", function () {
 addEventOnElements(hoverElements, "mouseout", function () {
   cursor.classList.remove("hovered");
 });
+
+*/

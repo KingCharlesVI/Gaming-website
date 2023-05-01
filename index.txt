@@ -9,7 +9,7 @@ This is an esports and gaming html template made by codewithsadee
 alt = unigine home
 
 home
-tournament
+team
 news
 contact
 
@@ -35,7 +35,7 @@ alt = shape
 
 Upcoming Matches
 
-Battles Extreme Masters Tournament
+Battles Extreme Masters team
 
 Our success in creating business solutions is due in large part to our talented and highly committed team.
 
@@ -124,7 +124,7 @@ Our success in creating business solutions is due in large part to our talented 
 
 Usefull Links
 
-Tournaments
+teams
 Help Center
 Privacy and Policy
 Terms of Use
